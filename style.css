@@ -1,0 +1,48 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	border: 10px;
+	border-color: solid black;
+	border-collapse: collapse;
+	color: pink;
+}
+
+#list td{
+	padding: 13px;
+	color: black;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	background-color: blue;
+}
+
+#btn_a td input{
+	margin-top: 5%;
+	padding: 10px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+	outline: none;
+	background: green;
+	color: rgb(0, 0, 0);
+	text-transform: capitalize;
+
+}
+#btn_a td input:hover{
+	background: green;
+  }
+
+
+#list th{
+	padding: 13px;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	background: pink;
+	color: black;
+}
+
+body{
+	background: purple;
+	color: black;
+}
